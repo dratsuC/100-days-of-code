@@ -25,3 +25,12 @@
 **Thoughts:** I MISSED THIS
 
 **Link to work:** N/A
+
+
+### Day 4: December 18, 2024
+
+**Today's Progress**: Worked some more on basic HTML and Git/GitHub - slowly getting used memorizing to tags again
+
+**Thoughts:** cannot wait to get back into JS, omg
+
+**Link to work:** N/A
