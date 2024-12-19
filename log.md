@@ -34,3 +34,12 @@
 **Thoughts:** cannot wait to get back into JS, omg
 
 **Link to work:** N/A
+
+
+### Day 5: December 19, 2024
+
+**Today's Progress**: Worked some more on basic HTML and Git/GitHub - put together a small recipe website! There's no CSS, so she isn't a looker
+
+**Thoughts:** Getting addicted to re-learning all of this now, can't believe I went so long without coding
+
+**Link to work:** https://dratsuc.github.io/odin-recipes/
