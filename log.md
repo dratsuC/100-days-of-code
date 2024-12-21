@@ -43,3 +43,21 @@
 **Thoughts:** Getting addicted to re-learning all of this now, can't believe I went so long without coding
 
 **Link to work:** https://dratsuc.github.io/odin-recipes/
+
+
+### Day 6: December 20, 2024
+
+**Today's Progress**: Didn't get to code much </3>
+
+**Thoughts:** Didn't have much time 
+
+**Link to work:** https://dratsuc.github.io/odin-recipes/
+
+
+### Day 7: December 21, 2024
+
+**Today's Progress**: Added two more pages to the recipes site and cleaned it up a bit :)
+
+**Thoughts:** SUPER KEEN to start working on CSS again - I sorely missed doing graphical design stuff all this time
+
+**Link to work:** https://dratsuc.github.io/odin-recipes/
