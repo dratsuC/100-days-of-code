@@ -61,3 +61,12 @@
 **Thoughts:** SUPER KEEN to start working on CSS again - I sorely missed doing graphical design stuff all this time
 
 **Link to work:** https://dratsuc.github.io/odin-recipes/
+
+
+### Day 8: December 22, 2024
+
+**Today's Progress**: Completed the first intro exercise for CSS
+
+**Thoughts:** Really simple lesson, but it definitely exercised my brain a bit getting back into all the different implementation methods of CSS
+
+**Link to work:** https://github.com/dratsuC/css-exercises
