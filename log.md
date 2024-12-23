@@ -70,3 +70,12 @@
 **Thoughts:** Really simple lesson, but it definitely exercised my brain a bit getting back into all the different implementation methods of CSS
 
 **Link to work:** https://github.com/dratsuC/css-exercises
+
+
+### Day 9: December 23, 2024
+
+**Today's Progress**: Completed the second intro exercise for CSS - CSS selectors
+
+**Thoughts:** Another simple lesson, slowly getting back into all the ins and outs of CSS
+
+**Link to work:** https://github.com/dratsuC/css-exercises
