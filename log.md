@@ -79,3 +79,12 @@
 **Thoughts:** Another simple lesson, slowly getting back into all the ins and outs of CSS
 
 **Link to work:** https://github.com/dratsuC/css-exercises
+
+
+### Day 10: December 26, 2024
+
+**Today's Progress**: Completed the 3rd, 4th and 5th CSS intro lessons
+
+**Thoughts:** Starting to get more comfy with CSS again, now that I'm experiencing some recurring themes
+
+**Link to work:** https://github.com/dratsuC/css-exercises
