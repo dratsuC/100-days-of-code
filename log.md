@@ -88,3 +88,12 @@
 **Thoughts:** Starting to get more comfy with CSS again, now that I'm experiencing some recurring themes
 
 **Link to work:** https://github.com/dratsuC/css-exercises
+
+
+### Day 11: December 30, 2024
+
+**Today's Progress**: Completed CSS cascade lesson, and added CSS to Odin recipes website
+
+**Thoughts:** Just started on the box CSS lessons - this was the stuff I struggled with last time 0_0
+
+**Link to work:** https://github.com/dratsuC/css-exercises
