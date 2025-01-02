@@ -97,3 +97,12 @@
 **Thoughts:** Just started on the box CSS lessons - this was the stuff I struggled with last time 0_0
 
 **Link to work:** https://github.com/dratsuC/css-exercises
+
+
+### Day 12: January 2, 2025
+
+**Today's Progress**: Completed CSS Box lesson, including an interactive lesson by MDN
+
+**Thoughts:** This stuff can get a little confusing, especially differentiating between the different display modes (inline-flex vs inline-block???), but it's so good to revisit
+
+**Link to work:** N/A
