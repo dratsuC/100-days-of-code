@@ -106,3 +106,12 @@
 **Thoughts:** This stuff can get a little confusing, especially differentiating between the different display modes (inline-flex vs inline-block???), but it's so good to revisit
 
 **Link to work:** N/A
+
+
+### Day 13: January 3, 2025
+
+**Today's Progress**: Completed inline block lessons 1 and 2
+
+**Thoughts:** box stuff makes a little more sense now - just have to make it through flexbox lmao
+
+**Link to work:** N/A
