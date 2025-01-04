@@ -115,3 +115,12 @@
 **Thoughts:** box stuff makes a little more sense now - just have to make it through flexbox lmao
 
 **Link to work:** N/A
+
+
+### Day 14: January 4, 2025
+
+**Today's Progress**: Worked on Odin Recipes site - adding extra styling relating to <div> and inline/block display
+
+**Thoughts:** Site still looks pretty terrible, but it's way better than when it first started! Super keen to get into more advanced styling/layout options
+
+**Link to work:** https://dratsuc.github.io/odin-recipes/
