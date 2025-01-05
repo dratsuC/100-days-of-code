@@ -124,3 +124,12 @@
 **Thoughts:** Site still looks pretty terrible, but it's way better than when it first started! Super keen to get into more advanced styling/layout options
 
 **Link to work:** https://dratsuc.github.io/odin-recipes/
+
+
+### Day 15: January 5, 2025
+
+**Today's Progress**: Added some more styling to the Odin Recipes site, and completed the first lesson on flexbox
+
+**Thoughts:** Flexbox is way less scary than I remember it - I know there's more to learn but at its core its quite simple
+
+**Link to work:** https://dratsuc.github.io/odin-recipes/
