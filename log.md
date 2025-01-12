@@ -133,3 +133,12 @@
 **Thoughts:** Flexbox is way less scary than I remember it - I know there's more to learn but at its core its quite simple
 
 **Link to work:** https://dratsuc.github.io/odin-recipes/
+
+
+### Day 16: January 6, 2025
+
+**Today's Progress**: After a short break due to work commitments/changes, I finished the flex box lessons and also documented my learnings so far on paper so I can easily refer to them moving forwards
+
+**Thoughts:** I took a cheeky look at the curriculum and saw that JS is very close, I am SO KEEN
+
+**Link to work:** N/A
