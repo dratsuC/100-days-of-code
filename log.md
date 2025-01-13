@@ -135,10 +135,19 @@
 **Link to work:** https://dratsuc.github.io/odin-recipes/
 
 
-### Day 16: January 6, 2025
+### Day 16: January 12, 2025
 
 **Today's Progress**: After a short break due to work commitments/changes, I finished the flex box lessons and also documented my learnings so far on paper so I can easily refer to them moving forwards
 
 **Thoughts:** I took a cheeky look at the curriculum and saw that JS is very close, I am SO KEEN
+
+**Link to work:** N/A
+
+
+### Day 17: January 13, 2025
+
+**Today's Progress**: Smashed through the remaining flexbox lessons and tackled one of the interactive tests in the assignment section - still a few more assignments to get through yet
+
+**Thoughts:** Taking down paper notes has made this WAY EASIER to retain, and the interactive lesson from Josh Comeau was hugely helpful in cementing the ideas from this lesson
 
 **Link to work:** N/A
