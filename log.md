@@ -151,3 +151,12 @@
 **Thoughts:** Taking down paper notes has made this WAY EASIER to retain, and the interactive lesson from Josh Comeau was hugely helpful in cementing the ideas from this lesson
 
 **Link to work:** N/A
+
+
+### Day 18: January 14, 2025
+
+**Today's Progress**: Finished flex lessons 01 and 02 in the CSS repo
+
+**Thoughts:** I got pretty stuck on the second lesson, where I had to use lots of nested flexboxes - took me a while but taught me a LOT
+
+**Link to work:** N/A
