@@ -160,3 +160,12 @@
 **Thoughts:** I got pretty stuck on the second lesson, where I had to use lots of nested flexboxes - took me a while but taught me a LOT
 
 **Link to work:** N/A
+
+
+### Day 19: January 15, 2025
+
+**Today's Progress**: Finished flex lessons 03, 04 and 05 in the CSS repo
+
+**Thoughts:** Really good to reinforce all the concepts from the flex lessons, can't wait to implement this stuff in my own websites :D
+
+**Link to work:** N/A
