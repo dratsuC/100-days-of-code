@@ -169,3 +169,12 @@
 **Thoughts:** Really good to reinforce all the concepts from the flex lessons, can't wait to implement this stuff in my own websites :D
 
 **Link to work:** N/A
+
+
+### Day 20: January 16, 2025
+
+**Today's Progress**: Finished the remaining lessons (06 and 07) for flexbox
+
+**Thoughts:** The final CSS lessons for flex really drove home the basic concepts of flex and how to achieve some of the most common web layouts in a very simple way - I LOVE IT
+
+**Link to work:** N/A
