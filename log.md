@@ -178,3 +178,12 @@
 **Thoughts:** The final CSS lessons for flex really drove home the basic concepts of flex and how to achieve some of the most common web layouts in a very simple way - I LOVE IT
 
 **Link to work:** N/A
+
+
+### Day 21: January 22, 2025
+
+**Today's Progress**: Significant progress on final project for HTML/CSS on Odin (started it a few days ago, but not much progress was made so I didn't log it)
+
+**Thoughts:** Added main HTML structure and content, and styled 90% of the page to a basic degree. I can see that this is going to be the format of my personal practise going forward; find a brief, fulfill it, add to portfolio.
+
+**Link to work:** https://dratsuc.github.io/Odin-LandingPage/
