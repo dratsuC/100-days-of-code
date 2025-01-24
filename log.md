@@ -187,3 +187,12 @@
 **Thoughts:** Added main HTML structure and content, and styled 90% of the page to a basic degree. I can see that this is going to be the format of my personal practise going forward; find a brief, fulfill it, add to portfolio.
 
 **Link to work:** https://dratsuc.github.io/Odin-LandingPage/
+
+
+### Day 22: January 24, 2025
+
+**Today's Progress**: Odin landing page project is complete!
+
+**Thoughts:** Webpage still contains dummy text, but I think it still serves as a good marker for huge progress on my understanding of layout and design through HTML/CSS --- NOW ONTO JAVASCRIPT!!!
+
+**Link to work:** https://dratsuc.github.io/Odin-LandingPage/
