@@ -196,3 +196,12 @@
 **Thoughts:** Webpage still contains dummy text, but I think it still serves as a good marker for huge progress on my understanding of layout and design through HTML/CSS --- NOW ONTO JAVASCRIPT!!!
 
 **Link to work:** https://dratsuc.github.io/Odin-LandingPage/
+
+
+### Day 23: January 29, 2025
+
+**Today's Progress**: Got through to DOM manipulation in the JS lessons on TOP
+
+**Thoughts:** Couple days of very slow progress; I've been torn between a few different freelancing efforts recently and it's exhausting
+
+**Link to work:** N/A
