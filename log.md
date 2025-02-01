@@ -205,3 +205,12 @@
 **Thoughts:** Couple days of very slow progress; I've been torn between a few different freelancing efforts recently and it's exhausting
 
 **Link to work:** N/A
+
+
+### Day 24: February 1, 2025
+
+**Today's Progress**: Got through about half of the dev tools lesson for JS - it's been slow progress, chipping away every few days, mostly due to the reasons stated on day 23
+
+**Thoughts:** Couple days of very slow progress; I've been torn between a few different freelancing efforts recently and it's STILL exhausting, but I need to do what I love
+
+**Link to work:** N/A
